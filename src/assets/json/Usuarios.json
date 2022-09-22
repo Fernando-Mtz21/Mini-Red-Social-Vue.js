@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nombre genérico",
+        "usuario": "qwerty",
+        "password": "123",
+        "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu aliquet urna. Morbi sit amet aliquam urna. Aenean sagittis egestas ligula, et volutpat.",
+        "img": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_960_720.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Fernando Martinez",
+        "usuario": "admin",
+        "password": "123",
+        "descripcion": "Este es un ejemplo de un texto que fue extraído desde un archivo JSON. Este texto es una breve descripción de un usuario.",
+        "img": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    }
+]
